@@ -1,2 +1,2 @@
 # AdaptiveAlgorithm
-This game-theoretical algorithm observes the game and discovers patterns
+Information about installation and running of the algorithm will be provided soon.
